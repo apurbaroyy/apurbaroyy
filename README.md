@@ -1,6 +1,6 @@
 # Hi, I'm Apurba Chandra Roy 👋
 
-💻 Aspiring Full-Stack Developer
+💻 As a Developer 
 🌱 Currently learning React, Node.js & Python
 🚀 Building real-world projects
 📫 Connect with me:
